@@ -1,0 +1,450 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<!-- Google Optimize -->
+	<!-- <script src="https://www.googleoptimize.com/optimize.js?id=OPT-TNRSGWM"></script> -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Plies Feat. Young Dolph - Racks Up To My Ear | Video </title>
+	<meta content="2016-12-13" http-equiv="last-modified"/>
+	<meta content="all" name="robots"/>
+	<meta content="en-US" itemprop="inLanguage"/>
+	<meta content="WORLDSTARHIPHOP" itemprop="sourceOrganization" name="source"/>
+	<meta content="2016-12-13" itemprop="dateCreated"/>
+	<meta content="Plies Feat. Young Dolph - Racks Up To My Ear" itemprop="headline"/>
+	<meta http-equiv="content-language" content="en" />
+	<meta property="og:title" content="Plies Feat. Young Dolph - Racks Up To My Ear" name="title"/>
+	<meta property="og:description" content="Directed by Omar The Director. Big Gates Records.Posted by Jay" itemprop="description" name="description"/>
+	<meta property="og:site_name" content="WORLDSTARHIPHOP"/>
+	<meta property="og:image" content="https://i.ytimg.com/vi/lMUTIuSnDXY/maxresdefault.jpg" itemprop="thumbnailUrl"/>
+	<meta property="og:url" content="https://worldstarhiphop.com/videos/video.php?v=wshhyuY90t9Arg90ZWOD" itemprop="url" />
+	<meta name="thumbnail" content="https://i.ytimg.com/vi/lMUTIuSnDXY/maxresdefault.jpg" />
+	<meta property="fb:app_id" content="654780098039828"/>
+	<meta property="article:publisher" content="https://www.facebook.com/worldstarhiphop" />
+	<link href="https://m.worldstarhiphop.com/web/video.php?v=wshhyuY90t9Arg90ZWOD" rel="alternate">
+	<!-- Setup head tags -->
+	<script type="text/javascript">
+  const hostnameArr = window.location.hostname.split('.');
+  const domain = hostnameArr[hostnameArr.length - 2];
+  const pathnameArr = window.location.pathname.split('/');
+  const pathname = pathnameArr[pathnameArr.length - 1];
+  const urlExtra = window.location.search + window.location.hash;
+  let pathnameExtra = '';
+  if (domain == 'worldstarhiphop') {
+    pathnameExtra = 'videos/';
+  }
+  const desktopURL = 'https://' + domain + '.com/' + pathnameExtra + pathname + urlExtra;
+  const mobileURL = 'https://m.' + domain + '.com/web/' + pathname + urlExtra;
+  const link = document.createElement('link');
+  const head = document.getElementsByTagName('head')[0];
+  const canonical = link.cloneNode(true)
+  const alternate = link.cloneNode(true)
+  canonical.href = desktopURL;
+  canonical.rel = 'canonical';
+  alternate.href = mobileURL;
+  alternate.rel = 'alternate';
+  head.appendChild(canonical);
+  head.appendChild(alternate);
+</script>
+	<link rel="image_src" href="https://i.ytimg.com/vi/lMUTIuSnDXY/maxresdefault.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Plies Feat. Young Dolph - Racks Up To My Ear" />
+	<meta name="twitter:description" content="View the video on WorldstarHipHop" />
+	<meta name="twitter:image" content="https://i.ytimg.com/vi/lMUTIuSnDXY/maxresdefault.jpg" />
+	<meta name="twitter:site" content="@worldstar" />
+
+	<!-- MOBILE DETECT -->
+	<script type="text/javascript">// <![CDATA[
+    	if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('PLAYSTATION') != -1) || (navigator.userAgent.indexOf('Windows Phone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('Kindle') != -1) || (navigator.userAgent.indexOf('Android') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
+				document.location = mobileURL;
+    	} // ]]>
+	</script>
+	<!-- END MOBILE DETECT -->
+
+	<!-- 10/01/2020 -->
+	<script type="text/javascript" src="//ddla593ymz72o.cloudfront.net/script.js"></script>
+
+	<!-- ANA SDK error monitoring -->
+	
+<!-- Sentry: start -->
+<script
+  src="https://browser.sentry-cdn.com/5.27.4/bundle.min.js"
+  integrity="sha384-yUnxX3o5D7+yEEIKDXlpygg+0Q2LdyklXwZVWUjc6fohGisYvhpyQbRvNYaDGtvU"
+  crossorigin="anonymous"
+></script>
+<script type="text/javascript">
+  Sentry.init({
+    dsn: 'https://33cc790b7f8b465ba532f219e0de5e95@o435357.ingest.sentry.io/5394514',
+    environment: "prod",
+    sampleRate: 0.01,
+    release: "wshh@1.1.9",
+    ignoreErrors: [
+      // Random plugins/extensions
+      "top.GLOBALS",
+      // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
+      "originalCreateNotification",
+      "canvas.contentDocument",
+      "MyApp_RemoveAllHighlights",
+      "http://tt.epicplay.com",
+      "Can't find variable: ZiteReader",
+      "jigsaw is not defined",
+      "ComboSearch is not defined",
+      "http://loading.retry.widdit.com/",
+      "atomicFindClose",
+      // Facebook borked
+      "fb_xd_fragment",
+      // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to
+      // reduce this. (thanks @acdha)
+      // See http://stackoverflow.com/questions/4113268
+      "bmi_SafeAddOnload",
+      "EBCallBackMessageReceived",
+      // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+      "conduitPage",
+     "SyntaxError: JSON Parse error: Unexpected identifier \"ima\"",
+     "SyntaxError: JSON Parse error: Unexpected identifier \"Brid\"",
+     "SyntaxError: JSON Parse error: Unexpected identifier \"visibility\"",
+    ],
+    allowUrls: [
+      /\/js.media-lab.ai\//i,
+    ],
+  })
+</script>
+<!-- Sentry: end -->
+
+	<link media="all" rel="stylesheet" href="https://cache.worldstarhiphop.com/videos/css/all.css">
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+	<script type="text/javascript">window.jQuery || document.write('<script src="https://cache.worldstarhiphop.com/videos/js/jquery-1.10.1.min.js"><\/script>')</script>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.6.0/clipboard.min.js"></script>
+	<script type="text/javascript" src="https://cache.worldstarhiphop.com/videos/js/jquery.main.js"></script>
+
+	<!-- ANA SDK injection -->
+	
+	
+	<!-- Begin Google Analytics Tag -->
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-31833046-2', 'auto');
+  ga('send', 'pageview');
+</script>
+	<!-- Begin Firebase Tag -->
+	<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to usehttps://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyCHcbax-cz17PSX-2PsHgLcR4SI6RK9B1A",
+    authDomain: "wshh-b00d4.firebaseapp.com",
+    databaseURL: "https://wshh-b00d4.firebaseio.com",
+    projectId: "wshh-b00d4",
+    storageBucket: "wshh-b00d4.appspot.com",
+    messagingSenderId: "291183115057",
+    appId: "1:291183115057:web:9e4524f783be0c3d3f0e10",
+    measurementId: "G-HM4QS6BBEL"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+
+  const selectVideoEv = function(vid, page, section) {
+    firebase.analytics().logEvent('select_video', { 'extra': page, 'page': page, 'section': section, 'vid': vid });
+  }
+
+  const shareVideoEv = function(media) {
+    firebase.analytics().logEvent('share_video', { 'extra': media });
+  }
+
+  const sendMailEv = function(page) {
+    firebase.analytics().logEvent('send_mail', { 'page': page } );
+  }
+
+  const downloadAppEv = function() {
+    const page = currPage || '';
+    firebase.analytics().logEvent('download_app', { 'page': page } );
+  }
+
+  // switch to this when jquery is updated
+  // $(window).on('load', function() {
+  $(window).load(function() {
+    // Trending section
+    $('.homepage .trending .slide').click(function() {
+      selectVideoEv(0, 'home', 'trending');
+    });
+
+    $('.navbar #appstore-link').click(downloadAppEv);
+
+    const media = ['facebook', 'twitter', 'reddit', 'all', 'whatsapp'];
+    media.forEach(function (currMedia) {
+      let selector = 'li[data-service="' + currMedia + '"] .shareaholic-share-button-sizing';
+      $(selector).click(function() {
+        shareVideoEv(currMedia);
+      });
+    })
+  })
+</script>
+	<!-- Begin comScore Tag -->
+	<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "16278360" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://b.scorecardresearch.com/p?c1=2&c2=16278360&cv=2.0&cj=1" />
+</noscript>
+
+<script type="text/javascript" data-cfasync="false" src="//cdn.shareaholic.net/assets/pub/shareaholic.js" data-shr-siteid="f5da3520a9ebd13a9f7534781bae62eb" async="async"></script>
+</head>
+<body>
+	<div id="wrapper">
+		<header id="header">
+			<div class="header-ad">
+							</div>
+			
+		<div class="holder">
+			<strong class="logo"><a href="https://worldstarhiphop.com/videos/">World Star Hip Hop</a></strong>
+			<nav>
+				<ul id="nav">
+					<li><a href="https://worldstarhiphop.com/videos/contact.php">CONTACT</a></li>
+					<li><a href="https://shop.worldstar.com/" target="_blank">SHOP</a></li>
+				</ul>
+			</nav>
+			<ul class="social-networks">
+				<li class="facebook"><a href="https://www.facebook.com/worldstarhiphop" target="_blank">facebook</a></li>
+				<li class="twitter"><a href="https://www.twitter.com/worldstar" target="_blank">twitter</a></li>
+				<li class="instagram"><a href="https://instagram.com/worldstar" target="_blank">Instagram</a></li>
+			</ul>
+			<form action="https://worldstarhiphop.com/videos/search.php" method="GET" class="search-form">
+				<fieldset>
+					<input class="text" type="search" name="s" placeholder="Search" />
+					<input type="submit" value="Search" />
+				</fieldset>
+			</form>
+		</div>		</header>
+		<div class="container">
+			<main id="main" role="main">
+				<div class="promo-image">
+									</div>
+				<div class="two-columns">
+					<article class="content">
+						<div class="content-heading">
+						<h1>Plies Feat. Young Dolph - Racks Up To My Ear</h1>
+						</div>
+						<div class="video-player" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/lMUTIuSnDXY?rel=0&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><script type="text/javascript">$.post("/api/u.php", { v: "101582" } );</script>							<meta itemprop="name" content="Plies Feat. Young Dolph - Racks Up To My Ear" />
+							<meta itemprop="description" content="Directed by Omar The Director. Big Gates Records.Posted by Jay" />
+							<meta itemprop="thumbnailUrl" content="https://i.ytimg.com/vi/lMUTIuSnDXY/maxresdefault.jpg" />
+							<meta itemprop="uploadDate" content="2016-12-13" />
+							<meta itemprop="embedUrl" content="https://worldstarhiphop.com/embed/101582" />
+							<meta itemprop="interactionCount" content="2356027" />
+						</div>
+						<div class="slide-section">
+							<div class="action-buttons">
+								<div class="share-box">
+<!-- social -->
+<!-- //social -->
+
+								</div>
+<div style="display: inline-flex;">
+<div style="margin-top: 5px;">
+<iframe src="https://www.facebook.com/plugins/like.php?href=https://worldstarhiphop.com/videos/video.php?v=wshhyuY90t9Arg90ZWOD&width=79&layout=button_count&action=like&size=small&show_faces=true&share=false&height=21&appId=142037616436159" width="79" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</div>
+<div class="shareaholic-canvas" data-app="share_buttons" data-app-id="28072217"></div>
+</div>
+								<a href="#" class="btn-report" title="BROKEN?"><span>BROKEN?</span></a>
+								<strong class="watch-view-count">2,356,027 views</strong>
+							</div>
+							<div class="mask-info">
+								<div class="slideset">
+									<div class="slide info-slide">
+										<div class="information">
+											<time class="date" datetime="2016-12-13">Uploaded December 13, 2016</time>
+											<div class="text">
+												<div class="text-holder">
+												<p>Directed  by Omar The Director.<br>
+Big Gates Records.<br>Posted by Jay
+</p>
+												</div>
+											</div>
+											<div class="btn-holder"><a href="#" class="btn opener"><span>SHOW MORE</span><em>SHOW LESS</em></a></div>
+										</div>
+									</div>
+									<div class="slide report-slide">
+										<section class="report">
+											<p>Please click the “Report” button below if the video on this page is not working properly.</p>
+											<p><a href="#" class="btn-repost">Report this video!</a></p>
+											<p><a href="#" class="btn btn-back">NEVERMIND, TAKE ME BACK</a></p>
+										</section>
+										<section class="report thanks-block">
+											<div class="message">
+												<p><mark>Thanks!</mark> Your cooperation in making Worldstar a better site is always appreciated.</p>
+												<p>Our team will now look into fixing this error.</p>
+											</div>
+										</section>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="watch-actions-share-panel slide-panel" data-iframe="#video-block">
+							<div class="panels-holder">
+								<div class="actions-row">
+									<ul class="panel-buttons">
+										<li><a class="copy-url copybtn" data-clipboard-text="https://worldstarhiphop.com/videos/video.php?v=wshhyuY90t9Arg90ZWOD" href="#url"><span id="btn-hold" style="position:relative"><span id="btn-copied" href="#">URL</span></span></a></li>
+										<li><a href="#embed" data-clipboard-text="&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://worldstarhiphop.com/embed/101582&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;" class="copy-embed copybtn"><span id="btn-hold2" style="position:relative"><span id="btn-copied2" href="#">EMBED</span></span></a></li>
+										<li><a href="#autoplay" data-clipboard-text="&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://worldstarhiphop.com/embed/101582&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;" class="copy-play copybtn"><span id="btn-hold3" style="position:relative"><span id="btn-copied3" href="#">AUTOPLAY</span></span></a></li>
+									</ul>
+									<div class="panel-container">
+										<p class="msg">Embedding Options <mark>(Click to copy)</mark></p>
+										<span class="text"><input type="hidden" id="clip_text" value="" /></span>
+									</div>
+								</div>
+								<div class="share-panel-slide">
+									<form action="#">
+										<fieldset>
+											<div class="panel-container">
+												<a class="input-link" href="#">Click to copy the embed code</a>
+											</div>
+											<div class="input-holder"><input type="text" id="url-field" value=""></div>
+											<a href="#" class="close">Close</a>
+										</fieldset>
+									</form>
+								</div>
+							</div>
+							<span class="alert-copied" style="display:none;">COPIED!</span>
+						</div>
+													<br>
+							<a class="btn custom-btn" href="video-c.php?v=wshhyuY90t9Arg90ZWOD#comments-arena" role="button">CLICK TO POST AND SEE COMMENTS</a>
+											</article>
+					<aside id="sidebar">
+						<div class="ad">
+													</div>
+						<section class="widget">
+							<div class="widget-title">
+								<h1>RECOMMENDED <mark>VIDEOS</mark></h1>
+							</div>
+							<ul class="video-list">
+
+				<li>
+					<a class="video-box" href="https://worldstar.com/video.php?v=wshhud0fmmo0I4Jtl3Zb"><img src="https://hw-static.worldstarhiphop.com/u/pic/2021/01/hdsuriT9D9wF.jpg" width="130" height="73" alt="Skier Gets Chased Down A Hill By A Bear!"></a>
+					<div class="txt">
+						<strong class="title"><a href="https://worldstar.com/video.php?v=wshhud0fmmo0I4Jtl3Zb">Skier Gets Chased Down A Hill By A Bear!</a></strong>
+						<span class="views">406,202 views</span>
+					</div>
+				</li>
+				<li>
+					<a class="video-box" href="https://worldstar.com/video.php?v=wshh7Dh8oFDJ82JMwn6c"><img src="https://hw-static.worldstarhiphop.com/u/pic/2020/12/uldI3JQJ9LJw.jpg" width="130" height="73" alt="Caught&#039;em Lacking: Dude Pulled Up To The Mall With His Diamond Tester &amp; Catches A Few Dudes Stunting With Fake Jewelry!"></a>
+					<div class="txt">
+						<strong class="title"><a href="https://worldstar.com/video.php?v=wshh7Dh8oFDJ82JMwn6c">Caught&#039;em Lacking: Dude Pulled Up To The Mall With His Diamond Tester &amp; Catches A Few Dudes Stunting With Fake Jewelry!</a></strong>
+						<span class="views">273,911 views</span>
+					</div>
+				</li>
+				<li>
+					<a class="video-box" href="https://worldstar.com/video.php?v=wshhYslwqA3cagWU1s2G"><img src="https://hw-static.worldstarhiphop.com/u/pic/2020/11/el5CY8CnUixf.jpg" width="130" height="73" alt="&quot;Y&#039;all Did Something Bad To My Uncle&quot; King Von&#039;s Little Nephew Delivers Heartbreaking Message!"></a>
+					<div class="txt">
+						<strong class="title"><a href="https://worldstar.com/video.php?v=wshhYslwqA3cagWU1s2G">&quot;Y&#039;all Did Something Bad To My Uncle&quot; King Von&#039;s Little Nephew Delivers Heartbreaking Message!</a></strong>
+						<span class="views">343,644 views</span>
+					</div>
+				</li>
+				<li>
+					<a class="video-box" href="https://worldstar.com/video.php?v=wshhfn5t8ie697YATm88"><img src="https://hw-static.worldstarhiphop.com/u/pic/2021/01/Ibz8UpszRvaF.jpg" width="130" height="73" alt="She Was Out: Woman Accused Of Participating In The Siege Of The Capitol Runs From Reporters Asking Her Questions!"></a>
+					<div class="txt">
+						<strong class="title"><a href="https://worldstar.com/video.php?v=wshhfn5t8ie697YATm88">She Was Out: Woman Accused Of Participating In The Siege Of The Capitol Runs From Reporters Asking Her Questions!</a></strong>
+						<span class="views">324,711 views</span>
+					</div>
+				</li>
+				<li>
+					<a class="video-box" href="https://worldstar.com/video.php?v=wshh4yd42pQH628ts8wW"><img src="https://hw-static.worldstarhiphop.com/u/pic/2020/11/mavovEHVdEGg.jpg" width="130" height="73" alt="Embarrassing Or Nah? Fellas Are You This Type Of Guy... Pulling Up To Your Chick&#039;s Job With Crazy Loud Music!"></a>
+					<div class="txt">
+						<strong class="title"><a href="https://worldstar.com/video.php?v=wshh4yd42pQH628ts8wW">Embarrassing Or Nah? Fellas Are You This Type Of Guy... Pulling Up To Your Chick&#039;s Job With Crazy Loud Music!</a></strong>
+						<span class="views">450,006 views</span>
+					</div>
+				</li>
+				<li>
+					<a class="video-box" href="https://worldstar.com/video.php?v=wshh3XgEoEVu60VPZYwY"><img src="https://hw-static.worldstarhiphop.com/u/pic/2020/10/ibyo8UtiJsiW.jpg" width="130" height="73" alt="I&#039;m A Gang Banger. My Life Matters. Especially To My Bxxches&quot; That Time Lil Wayne Said He&#039;s Not Down With BLM... Endorsing Trump Now!"></a>
+					<div class="txt">
+						<strong class="title"><a href="https://worldstar.com/video.php?v=wshh3XgEoEVu60VPZYwY">I&#039;m A Gang Banger. My Life Matters. Especially To My Bxxches&quot; That Time Lil Wayne Said He&#039;s Not Down With BLM... Endorsing Trump Now!</a></strong>
+						<span class="views">340,209 views</span>
+					</div>
+				</li>
+				<li>
+					<a class="video-box" href="https://worldstar.com/video.php?v=wshhmC13iJAqk9qpVuiF"><img src="https://hw-static.worldstarhiphop.com/u/pic/2020/12/Atn9BwNUTkTc.jpg" width="130" height="73" alt="Lol: Buddy Tried To Step Up To The Big Boy Weights But It Backfired!"></a>
+					<div class="txt">
+						<strong class="title"><a href="https://worldstar.com/video.php?v=wshhmC13iJAqk9qpVuiF">Lol: Buddy Tried To Step Up To The Big Boy Weights But It Backfired!</a></strong>
+						<span class="views">269,443 views</span>
+					</div>
+				</li>
+				<li>
+					<a class="video-box" href="https://worldstar.com/video.php?v=wshhv8es3Tb98kk6aEbn"><img src="https://hw-static.worldstarhiphop.com/u/pic/2020/09/9Hdx9UU5XQ3r.jpg" width="130" height="73" alt="Brooklyn Really Different: Jewish Landlord Pulled Up To The Block Party &amp; Showed Everybody How To Woo The Right Way!"></a>
+					<div class="txt">
+						<strong class="title"><a href="https://worldstar.com/video.php?v=wshhv8es3Tb98kk6aEbn">Brooklyn Really Different: Jewish Landlord Pulled Up To The Block Party &amp; Showed Everybody How To Woo The Right Way!</a></strong>
+						<span class="views">737,296 views</span>
+					</div>
+				</li>
+				<li>
+					<a class="video-box" href="https://worldstar.com/video.php?v=wshhOf9sGcQ77o9pb19R"><img src="https://hw-static.worldstarhiphop.com/u/pic/2020/10/qibQVIjqKHYp.jpg" width="130" height="73" alt="Pastor Kelly Wildin&#039;: North Carolina Pastor Pees On A Detroit Woman While She Was Sleeping During A Flight!"></a>
+					<div class="txt">
+						<strong class="title"><a href="https://worldstar.com/video.php?v=wshhOf9sGcQ77o9pb19R">Pastor Kelly Wildin&#039;: North Carolina Pastor Pees On A Detroit Woman While She Was Sleeping During A Flight!</a></strong>
+						<span class="views">441,623 views</span>
+					</div>
+				</li>							</ul>
+						</section>
+					</aside>
+				</div>
+			</main>
+			
+		<center>
+		<footer id="footer">
+			<div class="f1">
+				<div class="f2">
+					<div class="f3">
+						<strong class="footer-logo"><a href="https://worldstarhiphop.com/videos/">World Star Hip Hop</a></strong>
+						<ul class="footer-nav">
+							<li><a href="https://worldstarhiphop.com/videos/privacy.php">PRIVACY</a></li>
+							<li><a href="https://worldstarhiphop.com/videos/terms.php">TERMS</a></li>
+							<li><a href="https://worldstarhiphop.com/videos/dmca.php">DMCA</a></li>
+							<li><a href="https://worldstarhiphop.com/videos/vsubmit.php">SUBMIT VIDEO</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>		      </div>
+		</div>
+	</div>
+        <div id='slot3' style='width:1px; height:1px;'>
+				</div>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+  (function() {
+    var elem = document.createElement('script');
+    elem.src = "https://secure.quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+  })();
+  _qevents.push({
+    qacct: "p-3bDtRer0SSNWT",
+    uid: "ops@worldstarhiphop.com"
+  });
+</script>
+<noscript>
+  <div style="display:none;">
+    <img src="https://pixel.quantserve.com/pixel/p-3bDtRer0SSNWT.gif" border="0" height="1" width="1" alt="Quantcast" />
+  </div>
+</noscript>
+<!-- End Quantcast tag -->
+<script async src="//radar.cedexis.com/1/10060/radar.js"></script>
+</body>
+</html>
