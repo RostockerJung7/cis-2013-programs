@@ -53,6 +53,8 @@ var consonants = function ()
                 case "o":
                 case "u":
                 case " ":
+		case ".":
+		case ",":
                     break;
                 default:
                     intConsonants++;
